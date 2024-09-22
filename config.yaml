@@ -1,0 +1,6 @@
+azure:
+  region: <add your speech region here>
+  speech_key: <add your speech key here>
+  custom_endpoint_id: <add your custom endpoint id here>
+  video_key: <add your video key here>
+  video_account_id: <add your video account id here>
