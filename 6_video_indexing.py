@@ -33,7 +33,6 @@ def get_video_summary(location, account_id, access_token, video_id, language="en
         'accessToken': access_token,
         'format': 'srt',
         'language': language
-
     }
 
     headers = {
